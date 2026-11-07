@@ -1,0 +1,28 @@
+[
+  {
+    "id": "p1",
+    "output": {
+      "answer": "Use the identity portal",
+      "citations": [
+        "doc-001"
+      ],
+      "abstained": false
+    }
+  },
+  {
+    "id": "p2",
+    "output": {
+      "answer": "Unknown",
+      "citations": [],
+      "abstained": true
+    }
+  },
+  {
+    "id": "p3",
+    "output": {
+      "answer": "Uncited claim",
+      "citations": [],
+      "abstained": false
+    }
+  }
+]
